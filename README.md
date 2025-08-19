@@ -18,10 +18,9 @@ Data science analysis of 225 Palworld characters to predict combat effectiveness
 - **Matplotlib/Plotly**: Data visualization and interactive plots
 
 ## Files
-- `notebooks/palworld_analysis.ipynb`: Complete analysis notebook
+- `project1.5.ipynb`: Complete analysis notebook
 - `data/`: Scraped datasets (225 Pals, 8 features)
-- `visualizations/`: Key plots and charts
-- `presentation/`: Final presentation slides
+- `DS 3000 Project (1).pdf`: Final presentation slides
 
 ## Results
 Linear regression achieved R² = 0.436 predicting combat effectiveness from rarity, elemental type, and work capabilities. K-Means clustering revealed performance-based combat tiers validated through elbow method analysis.
